@@ -1,0 +1,8 @@
+node_modules
+.idea/
+Myapp/node_modules
+APP/node_modules
+AwesomeProject/node_modules
+Myapp/.idea/
+APP/.idea/
+AwesomeProject/.idea/
